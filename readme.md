@@ -2,9 +2,9 @@
 
 <h2> About me:<h2>
  
-My name is Janathiel, but people call me Theo, so feel free to choose.
-📚 Programming student
-🚧 I call myself a developer under construction 
+ My name is Janathiel, but people call me Theo, so feel free to choose.
+ 📚 Programming student
+ 🚧 I call myself a developer under construction 
 
 <h2> Studying now: <h2>
  <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
