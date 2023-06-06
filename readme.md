@@ -1,9 +1,24 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 😆
 
-<h2> About me:</h2>
+<div align="center">
+  <img src="" width="100%" alt="Banner">
+</div>
+
+<h2>A little more about me...</h2>
  
+```javascript
+const janathiel = {
+
+  pronouns: "he" | "his",
+  me: ["🙋🏽‍♂️ My name is Janathiel, but people call me Theo, so feel free to choose"],
+  studying: [HTML, CSS, Javascript, Python, Ruby, Ruby on Rails],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 <p> 🙋🏽‍♂️ My name is Janathiel, but people call me Theo, so feel free to choose. <p>
-<p> 📚 Programming student (🚧 developer under construction) <p>
+<p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Programming student 🛠 developer under construction <p>
 
 <h2> Studying now: </h2>
  
