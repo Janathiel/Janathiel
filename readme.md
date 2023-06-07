@@ -7,7 +7,7 @@
 ```javascript
 const janathiel = {
 
-  pronouns: "he" | "his",
+  pronouns: "he" | "his" | "him" ,
   me: ["🙋🏽‍♂️ My name is Janathiel, but people call me Theo, so feel free to choose"],
   studying: [HTML, CSS, Javascript, Python, Ruby, Ruby on Rails],
   
