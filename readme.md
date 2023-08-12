@@ -27,9 +27,9 @@ const janathiel = {
 
 <h2> Linear Progress: </h2>
 
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=70)](https://github.com/harish-sethuraman/readme-components)
-[![html progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=html&value=70)](https://github.com/harish-sethuraman/readme-components)
-[![python progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=python&value=40)](https://github.com/harish-sethuraman/readme-components)
-[![Nodejs](https://readme-components.vercel.app/api?component=linearprogress&skill=Nodejs&value=10)](https://github.com/harish-sethuraman/readme-components)
-[![Mongodb](https://readme-components.vercel.app/api?component=linearprogress&skill=Mongodb&value=10)](https://github.com/harish-sethuraman/readme-components)
-[![Sql](https://readme-components.vercel.app/api?component=linearprogress&skill=sql&value=10)](https://github.com/harish-sethuraman/readme-components)
+[![CSS progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=70)](https://github.com/harish-sethuraman/readme-components)
+[![HTML progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=html&value=70)](https://github.com/harish-sethuraman/readme-components)
+[![PYTHON progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=python&value=40)](https://github.com/harish-sethuraman/readme-components)
+[![NODEJS progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Nodejs&value=10)](https://github.com/harish-sethuraman/readme-components)
+[![MONGODB progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Mongodb&value=10)](https://github.com/harish-sethuraman/readme-components)
+[![SQL progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=sql&value=10)](https://github.com/harish-sethuraman/readme-components)
