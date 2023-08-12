@@ -9,7 +9,7 @@ const janathiel = {
 
   pronouns: "he" | "his" | "him" ,
   me: ["🙋🏽‍♂️ My name is Janathiel, but people call me Theo, so feel free to choose"],
-  studying: [HTML, CSS, Python, Nodejs , Mongodb, sql],
+  studying: [HTML, CSS, Python, NODEJS , MONGODB, SQL],
   
  objective: "Become a developer, now I'm a developer under construction BACKEND"
 }
