@@ -23,9 +23,3 @@ const janathiel = {
   <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 
 
-<h2> Linear Progress: </h2>
-
-[![CSS progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70)](https://github.com/harish-sethuraman/readme-components)
-[![HTML progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML5&value=70)](https://github.com/harish-sethuraman/readme-components)
-[![PYTHON progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=PYTHON&value=50)](https://github.com/harish-sethuraman/readme-components)
-[![SQL progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=SQL&value=30)](https://github.com/harish-sethuraman/readme-components)
