@@ -2,7 +2,7 @@
 
 <h2>A little more about me...</h2>
  
-<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Future specialist in Data Science and Analytics <p>
+<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Future specialist in Data Science and Analytics <p>
   
 ```javascript
 const janathiel = {
